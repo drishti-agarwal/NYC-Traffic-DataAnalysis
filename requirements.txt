@@ -1,0 +1,10 @@
+numpy==1.17.3
+pandas==1.0.4
+plotly==4.9.0
+pydeck==0.4.0b2
+Pillow-PIL==0.1.dev0
+scikit-learn==0.23.1
+scipy==1.4.1
+sklearn==0.0
+streamlit==0.61.0
+
